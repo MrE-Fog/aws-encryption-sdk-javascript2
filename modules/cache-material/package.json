@@ -20,7 +20,7 @@
   "dependencies": {
     "@aws-crypto/material-management": "file:../material-management",
     "@aws-crypto/serialize": "file:../serialize",
-    "@types/lru-cache": "^5.1.0",
+    "@types/lru-cache": "^7.10.10",
     "lru-cache": "^10.0.1",
     "tslib": "^2.2.0"
   },
